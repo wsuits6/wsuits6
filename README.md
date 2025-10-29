@@ -1,154 +1,227 @@
 # 👋 Hi, I'm Wsuits6 — Founder @ Wsuits Industries
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=800&color=00FFB2&center=true&vCenter=true&width=760&lines=Hi,+I%27m+Wsuits6;Cybersecurity+%7C+Ethical+Hacking+%7C+Full-Stack+Web+Dev;Building+Tech+Solutions+for+Africa)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFB2&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Wsuits6+👨‍💻;Cybersecurity+%7C+Ethical+Hacking+%7C+Full-Stack+Dev;Building+Tech+Solutions+for+Africa+🌍;AI+Enthusiast+%7C+Community+Builder;Let's+Build+the+Future+Together+🚀" alt="Typing SVG" />
+  </a>
 </p>
 
-<h2 align="center">
-  <span style="background: linear-gradient(90deg, #00FFA3, #DC1FFF); -webkit-background-clip: text; color: transparent;">🚀 Wsuits Industries — Building Africa's Digital Future</span>
-</h2>
+<div align="center">
+  
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@wsuitsindustries)
+  [![GitHub followers](https://img.shields.io/github/followers/wsuits6?style=for-the-badge&logo=github&logoColor=white&color=00FFB2)](https://github.com/wsuits6)
+  [![Profile Views](https://komarev.com/ghpvc/?username=wsuits6&style=for-the-badge&color=00FFB2)](https://github.com/wsuits6)
+  
+</div>
 
 ---
 
-## 🔭 Quick snapshot
-
-* **Name:** Wsuits6
-* **Brand:** Wsuits Industries
-* **Focus:** Ethical hacking, cybersecurity, web development, AI-driven tools, and technical education in Africa.
-* **Mission:** Build practical tech solutions and learning resources that improve lives across Africa.
-
----
-
-## 🧠 What I bring (skills & tools)
-
-*This is an honest, workmanlike list — not bragging, just the kit I use to actually build stuff.*
-
-### Core technical skills
-
-* **Languages:** Python (backend, automation, AI), JavaScript/TypeScript (frontend & Node), HTML, CSS
-* **Frameworks & Libraries:** React, Django, Flask, Node.js, Express
-* **Dev tools:** VS Code, Git, GitHub, Docker (basic usage / containers)
-* **Platforms & concepts:** REST APIs, JWT & auth flows, web security fundamentals, CI/CD pipelines (planning & basic setup)
-* **Operating systems & shells:** Linux (sysadmin, networking basics, Bash), Windows terminal experience
-
-### Cybersecurity & hacking
-
-* **Ethical hacking:** Reconnaissance, basic red-team workflows, vulnerability research mindset
-* **Tools & techniques:** Network scanning, enumeration, social engineering awareness, exploit concept testing (lab environments)
-* **Mindset:** Security-first thinking for web apps and infrastructure — prefers hardened backends (Django) when appropriate
-
-### AI & product thinking
-
-* **AI projects:** Planning and building AI-driven features (e.g., message-prediction ideas like Tatu Chat, RedSpecter AI concepts)
-* **Product strategy:** MVP-first mindset — launch simple features, iterate fast, measure, then refine
-
-### Other strengths
-
-* **Teaching & community:** You want to make content, courses, and seminars; I’ve seen you plan that route.
-* **Psychology & social engineering:** Uses human insight for better security analysis and communication.
-* **Curiosity:** Astronomy nerd energy — likes systems, patterns, and asking why.
-
----
-
-## ⚒️ Experience highlights & projects
-
-*(Short, punchy descriptions you can expand later.)*
-
-* **Wsuits Industries** — Founder. Building a hub for courses, community, and products focused on tech solutions for Africa.
-* **RedSpecter AI** — AI platform concept under development. Backend in Python; front-end dashboard planned with React.
-* **Tatu Chat** — Idea for a message-prediction system; exploring UX and backend choices.
-* **YouTube channel (Wsuits Industries)** — Ethical hacking & coding content, growing subscriber base; learning how to present and monetize technical content.
-* **Open-source work** — Active with code, repos, and experiments (examples/pinned projects live on GitHub).
-
----
-
-## 🎯 What I’m building next
-
-* Launch a lean Wsuits Industries site (Phases: branding → build → market → productization).
-* Finish a minimal RedSpecter AI dashboard so users can see progress and sign up early.
-* Create course content and reach out to universities for talks/seminars.
-
----
-
-## 🧩 Skills matrix (badges)
+<h2 align="center">🚀 Wsuits Industries — Building Africa's Digital Future</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <em>Ethical hacking • Cybersecurity • Web development • AI-driven tools • Technical education</em>
 </p>
 
 ---
 
-## 📂 Recommended README structure (what’s included in this file)
+## 🎯 About Me
 
-* Header & animated intro ✅
-* One-line mission ✅
-* Skill badges ✅
-* Projects / experience highlights ✅
-* Links & contact ✅
-* Quick editor instructions (so you can change this quickly) ✅
-
----
-
-## 🔗 Links & contact
-
-* **GitHub:** [https://github.com/wsuits6](https://github.com/wsuits6)
-* **YouTube:** [https://www.youtube.com/@wsuitsindustries](https://www.youtube.com/@wsuitsindustries)
-* **Company vision:** Wsuits Industries — building tech solutions for Africa
-
----
-
-## ✍️ Quick edit guide (the editor you asked for)
-
-If you want to update this README quickly, here are simple ways:
-
-### 1) Edit on GitHub (web)
-
-1. Go to your profile repo named `wsuits6`.
-2. Click the `README.md` file.
-3. Click the pencil ✏️ icon (Edit this file), make changes, then propose the commit and save.
-
-### 2) Edit locally with VS Code
-
-1. Clone the repo: `git clone https://github.com/wsuits6/wsuits6.git`
-2. Open in VS Code: `code wsuits6`
-3. Modify `README.md`, save, then push:
-
-   ```bash
-   git add README.md
-   git commit -m "Update README"
-   git push origin main
-   ```
-
-### 3) Quick tips for tweaking styles and badges
-
-* Change the gradient colors in the header span to match your brand.
-* Edit the typing SVG `lines=` param to swap phrases.
-* Replace or add badges from `shields.io` for more social links.
+```python
+class Wsuits6:
+    def __init__(self):
+        self.name = "Wsuits6"
+        self.brand = "Wsuits Industries"
+        self.role = "Founder & Full-Stack Developer"
+        self.location = "Africa 🌍"
+        self.mission = "Build practical tech solutions that improve lives"
+        
+    def get_current_focus(self):
+        return [
+            "🔐 Ethical Hacking & Penetration Testing",
+            "🤖 AI-Driven Product Development",
+            "📚 Creating Educational Content",
+            "🌐 Full-Stack Web Applications"
+        ]
+```
 
 ---
 
-## 🎛️ How to personalize it further (pro-level moves)
+## 🛠️ Tech Stack & Skills
 
-* Add **pinned repositories** section using GitHub’s pinned repo UI.
-* Include **project GIFs or demo images** (commit them to the repo and reference with `![Demo](./demo.gif)`).
-* Use **custom SVGs** for animated visuals (host them in the repo).
-* Add a **projects gallery**: small cards that link to deployed demos or live posts.
+### 💻 Languages & Core
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
+
+### ⚛️ Frontend Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn/UI" />
+  <img src="https://img.shields.io/badge/Recharts-FF6B6B?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Recharts" />
+</p>
+
+### 🔧 Backend & APIs
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+
+### 🔒 Cybersecurity & Ethical Hacking
+<p align="left">
+  <img src="https://img.shields.io/badge/Red_Team-DC143C?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Red Team" />
+  <img src="https://img.shields.io/badge/Reconnaissance-FF6347?style=for-the-badge&logo=wireshark&logoColor=white" alt="Recon" />
+  <img src="https://img.shields.io/badge/Vuln_Research-8B0000?style=for-the-badge&logo=hackerone&logoColor=white" alt="Vuln Research" />
+  <img src="https://img.shields.io/badge/Social_Engineering-FF4500?style=for-the-badge&logo=thesocialnetwork&logoColor=white" alt="Social Eng" />
+  <img src="https://img.shields.io/badge/Network_Scanning-4B0082?style=for-the-badge&logo=netdata&logoColor=white" alt="Network Scan" />
+  <img src="https://img.shields.io/badge/Web_Security-000080?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Web Sec" />
+  <img src="https://img.shields.io/badge/Exploit_Labs-8B008B?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Exploit Labs" />
+</p>
+
+### 🛠️ DevOps & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Windows Terminal" />
+</p>
+
+### 🤖 AI & Design Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</p>
 
 ---
 
-## ✅ Final note
+## 🚀 Featured Projects
 
-This README is a starting point — honest, technical, and built to be iterated on. I captured everything you told me and the major skills you wanted shown. If you want it more flashy (matrix rain, particles, or live GitHub activity widgets), say the word and I’ll add those sections next.
+### 🔴 RedSpecter AI
+> AI-powered platform currently in development. Python backend with React dashboard.
+
+- 🧠 AI-driven features for modern use cases
+- 📊 Real-time dashboard with data visualization
+- 🔐 Secure authentication and API integration
+
+### 💬 Tatu Chat
+> Message prediction system exploring advanced UX patterns.
+
+- 🤖 Smart message prediction engine
+- ⚡ Fast, responsive interface
+- 🎨 Modern UI/UX design
+
+### 🎓 Wsuits Industries
+> Educational hub providing courses, community, and tech solutions for Africa.
+
+- 📚 Technical courses and workshops
+- 🎥 YouTube content on ethical hacking & coding
+- 🌍 Community-driven learning platform
 
 ---
 
-*Built with focus. Iterated with curiosity. — Wsuits Industries*
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=wsuits6&show_icons=true&theme=radical&bg_color=0d1117&title_color=00FFB2&text_color=ffffff&icon_color=00FFB2&border_color=00FFB2" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wsuits6&theme=radical&background=0d1117&ring=00FFB2&fire=00FFB2&currStreakLabel=00FFB2&border=00FFB2" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsuits6&layout=compact&theme=radical&bg_color=0d1117&title_color=00FFB2&text_color=ffffff&border_color=00FFB2" alt="Top Languages" />
+  
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🔨 Building **Wsuits Industries** website (branding → build → market → productize)
+- 🤖 Developing **RedSpecter AI** MVP with user dashboard
+- 📚 Creating educational content and course materials
+- 🎤 Planning university talks and technical seminars
+- 📹 Growing **YouTube channel** with ethical hacking content
+
+---
+
+## 💡 Skills Beyond Code
+
+```yaml
+Product Development:
+  - MVP-First Mindset
+  - Iterative Development
+  - Project Planning
+  - Community Building
+
+Business & Strategy:
+  - Founder Mindset
+  - Monetization Strategy
+  - Vision & Execution
+  - Content Creation
+
+Technical Leadership:
+  - Linux Administration
+  - Performance Optimization
+  - API Testing
+  - Debugging & Problem Solving
+
+Soft Skills:
+  - Psychology & Social Engineering
+  - Strategic Thinking
+  - Teaching & Mentoring
+  - Curiosity & Continuous Learning
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/wsuits6">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.youtube.com/@wsuitsindustries">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Open to collaborations, speaking opportunities, and building the future of African tech! 🌍</strong>
+</p>
+
+---
+
+<div align="center">
+  
+  ### 💭 "Building practical solutions, one commit at a time"
+  
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
+</div>
+
+---
+
+<p align="center">
+  <sub>Built with 💚 by Wsuits6 | Powered by Wsuits Industries</sub>
+</p>
