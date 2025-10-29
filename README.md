@@ -147,7 +147,7 @@ class Wsuits6:
   
   <img src="https://github-readme-stats.vercel.app/api?username=wsuits6&show_icons=true&theme=radical&bg_color=0d1117&title_color=00FFB2&text_color=ffffff&icon_color=00FFB2&border_color=00FFB2" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wsuits6&theme=radical&background=0d1117&ring=00FFB2&fire=00FFB2&currStreakLabel=00FFB2&border=00FFB2" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=wsuits6&theme=radical&background=0d1117&ring=00FFB2&fire=00FFB2&currStreakLabel=00FFB2&border=00FFB2" alt="GitHub Streak" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsuits6&layout=compact&theme=radical&bg_color=0d1117&title_color=00FFB2&text_color=ffffff&border_color=00FFB2" alt="Top Languages" />
   
