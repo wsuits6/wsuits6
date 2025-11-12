@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wsuits6 — Founder @ Wsuits Industries
+# Hi, I'm Wsuits6 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFB2&center=true&vCenter=true&width=800&lines=Cybersecurity+%7C+Ethical+Hacking+%7C+Full-Stack+Dev;Building+Tech+Solutions+for+Africa+🌍;AI+%7C+Innovation+%7C+Education" alt="Typing SVG" />
@@ -18,13 +18,13 @@
 
 ---
 
-### 🚀 Wsuits Industries  
+### Wsuits Industries  
 **Building Africa's Digital Future.**  
 _Where cybersecurity, AI, and web innovation meet purpose._
 
 ---
 
-### 🧠 About Me
+### About Me
 
 ```python
 class Wsuits6:
