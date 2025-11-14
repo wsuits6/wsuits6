@@ -1,37 +1,28 @@
-# Hi, I'm Wsuits6 
+# Hi, I'm Wsuits6
+
+**Cybersecurity | Ethical Hacking | Full-Stack Development | AI**
+
+Building practical tech solutions while empowering Africa’s digital future.
+
+---
+
+### 🔧 Tech Focus
+- Ethical Hacking  
+- AI Tools & Automation  
+- Full-Stack Development  
+- Tech Education  
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFB2&center=true&vCenter=true&width=800&lines=Cybersecurity+%7C+Ethical+Hacking+%7C+Full-Stack+Dev;Building+Tech+Solutions+for+Africa+🌍;AI+%7C+Innovation+%7C+Education" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/@wsuitsindustries">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://github.com/wsuits6">
-    <img src="https://img.shields.io/github/followers/wsuits6?style=for-the-badge&color=00FFB2&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/wsuits6">
-    <img src="https://komarev.com/ghpvc/?username=wsuits6&style=for-the-badge&color=00FFB2"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=wsuits6&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsuits6&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
 
-### Wsuits Industries  
-**Building Africa's Digital Future.**  
-_Where cybersecurity, AI, and web innovation meet purpose._
+### 🌐 Connect
+- YouTube: **https://youtube.com/@wsuitsindustries**
 
----
-
-### About Me
-
-```python
-class Wsuits6:
-    def __init__(self):
-        self.focus = [
-            "Ethical Hacking",
-            "AI-Driven Tools",
-            "Full-Stack Development",
-            "Tech Education for Africa"
-        ]
