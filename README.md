@@ -10,6 +10,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsuits6&layout=compact&theme=radical" height="160"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wsuits6&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=wsuits6&theme=radical" alt="Contribution Graph" width="100%" />
+</p>
+
 ---
 
 ### 🌐 Connect with Me
