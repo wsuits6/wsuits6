@@ -1,9 +1,1 @@
-## I AM WSUITS6
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wsuits6&layout=compact&theme=dark)
-
-## 📫 Connect with Me
-
-- [YouTube](https://www.youtube.com/@wsuits6) – Tech tutorials and coding projects  
-- [Twitter](https://twitter.com/wsuits6) – Tech insights & updates  
-
 
