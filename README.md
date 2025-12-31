@@ -1,8 +1,8 @@
-<div align="center">
-
 # **WSUITS6**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&lines=BUILDER+%7C+STRATEGIST+%7C+SYSTEMS+THINKER" alt="Typing SVG" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&lines=BUILDER+%7C+STRATEGIST+%7C+SYSTEMS+THINKER" alt="Typing SVG" />
 
 </div>
 
@@ -13,9 +13,9 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/HACKER-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![](https://img.shields.io/badge/DEVELOPER-000000?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/STRATEGIST-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![](https://img.shields.io/badge/HACKER-000000?style=for-the-badge\&logo=hackthebox\&logoColor=white)
+![](https://img.shields.io/badge/DEVELOPER-000000?style=for-the-badge\&logo=github\&logoColor=white)
+![](https://img.shields.io/badge/STRATEGIST-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 
 </div>
 
@@ -50,8 +50,7 @@
 ## **🎯 MISSION**
 
 **Build and break systems** → **Learn in public** → **Think in frameworks**
-
-**Turn ideas into infrastructure** → **Focus on Africa's future**
+**Turn ideas into infrastructure** → **Focus on Africa’s future**
 
 </div>
 
@@ -99,7 +98,7 @@
 █▀█ █▄█ █▄█ █▄█ ░█░   █▀█ █▄▄ ░█░ █ █▄█ █░▀█
 ```
 
-**BUILD. LEARN. REPEAT.**
+**I don’t follow paths — I burn them, then write my own in code.**
 
 <img src="https://komarev.com/ghpvc/?username=wsuits6&color=000000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
