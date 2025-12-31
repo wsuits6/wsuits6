@@ -1,65 +1,61 @@
 # WSUITS6
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BUILT%20ON-DISCIPLINE-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FOCUS-LONG--TERM-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MISSION-AFRICA-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HACKER-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/DEVELOPER-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/STRATEGIST-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
-## Identity
+## Who I Am
 
-**WSUITS6** is the personal operating system of **Alhassan Osman Wunpini**.  
-Builder. Thinker. Student of hard problems.
+**WSUITS6** — builder, strategist, and systems thinker.
 
-This is where learning, execution, and long-term systems collide.
-
-I do not chase trends.  
-I build skills.  
-I document reality.  
-I train people who take work seriously.
-
----
-
-## Belief System
-
-- Discipline beats motivation  
-- Skills compound faster than luck  
-- Systems outlive talent  
-- Real growth is uncomfortable  
-- Long-term thinking wins  
-
-This work exists to create **WSUiters** — disciplined, technical builders capable of shaping Africa’s future.
+I work in silence, document results, and build things that last.
+No trends. No noise. Just execution.
 
 ---
 
 ## What I Do
 
-- Build in public  
-- Learn aggressively  
-- Design systems that scale  
-- Document thinking, not noise  
+* Build and break systems
+* Learn in public
+* Think in frameworks, not hype
+* Turn ideas into working infrastructure
 
-No entertainment.  
-No hype cycles.  
-No shortcuts.
-
-If you’re here, it’s to grow.
+Focused on **technology, discipline, and Africa’s future**.
 
 ---
 
-## Focus Areas
+## What I’m Building
 
-- Learning in public  
-- Building difficult systems  
-- Systems thinking  
-- Technology + Africa  
-
-Anything outside these pillars is ignored.
+* Technical tools and experiments
+* A serious community (WSUiters)
+* WSUITS Industries — long-term systems, not shortcuts
 
 ---
 
-## Structure
+## Connect
 
+<p align="center">
+  <a href="https://github.com/wsuits6" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@wsuits6" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/wsuits6" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/osman-alhassan-552807301/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" />
+  </a>
+</p>
 
+---
+
+<p align="center"><strong>Build. Learn. Repeat.</strong></p>
