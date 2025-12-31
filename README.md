@@ -1,61 +1,106 @@
-# WSUITS6
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HACKER-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/DEVELOPER-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/STRATEGIST-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+# **WSUITS6**
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&lines=BUILDER+%7C+STRATEGIST+%7C+SYSTEMS+THINKER" alt="Typing SVG" />
 
-## Who I Am
+</div>
 
-**WSUITS6** — builder, strategist, and systems thinker.
+```ascii
+█░█░█ █▀ █░█ █ ▀█▀ █▀ ▀ █▀
+▀▄▀▄▀ ▄█ █▄█ █ ░█░ ▄█ ▄ ▄█
+```
 
-I work in silence, document results, and build things that last.
-No trends. No noise. Just execution.
+<div align="center">
 
----
+![](https://img.shields.io/badge/HACKER-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![](https://img.shields.io/badge/DEVELOPER-000000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/STRATEGIST-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## What I Do
-
-* Build and break systems
-* Learn in public
-* Think in frameworks, not hype
-* Turn ideas into working infrastructure
-
-Focused on **technology, discipline, and Africa’s future**.
+</div>
 
 ---
 
-## What I’m Building
+<div align="center">
 
-* Technical tools and experiments
-* A serious community (WSUiters)
-* WSUITS Industries — long-term systems, not shortcuts
+### **EXECUTION OVER NOISE**
 
----
+*Work in silence. Document results. Build systems that last.*
 
-## Connect
-
-<p align="center">
-  <a href="https://github.com/wsuits6" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@wsuits6" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/wsuits6" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/osman-alhassan-552807301/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" />
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center"><strong>Build. Learn. Repeat.</strong></p>
+<div align="center">
+
+## **⚡ GITHUB STATS**
+
+<img src="https://github-readme-stats.vercel.app/api?username=wsuits6&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wsuits6&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsuits6&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+## **🎯 MISSION**
+
+**Build and break systems** → **Learn in public** → **Think in frameworks**
+
+**Turn ideas into infrastructure** → **Focus on Africa's future**
+
+</div>
+
+---
+
+<div align="center">
+
+## **🔨 CURRENT BUILD**
+
+```
+├── Technical tools & experiments
+├── WSUiters community
+└── WSUITS Industries (long-term systems)
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## **🌐 CONNECT**
+
+<a href="https://github.com/wsuits6" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.youtube.com/@wsuits6" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+<a href="https://x.com/wsuits6" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+<a href="https://www.linkedin.com/in/osman-alhassan-552807301/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+▄▀█ █▄▄ █▀█ █░█ ▀█▀   ▄▀█ █▀▀ ▀█▀ █ █▀█ █▄░█
+█▀█ █▄█ █▄█ █▄█ ░█░   █▀█ █▄▄ ░█░ █ █▄█ █░▀█
+```
+
+**BUILD. LEARN. REPEAT.**
+
+<img src="https://komarev.com/ghpvc/?username=wsuits6&color=000000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+</div>
