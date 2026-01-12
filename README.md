@@ -1,5 +1,3 @@
-# **WSUITS6**
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&lines=BUILDER+%7C+STRATEGIST+%7C+SYSTEMS+THINKER" alt="Typing SVG" />
