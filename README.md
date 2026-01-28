@@ -1,16 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&width=700&lines=BUILDER+%7C+STRATEGIST+%7C+SYSTEMS+THINKER" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&lines=BUILDER+%7C+STRATEGIST+%7C+SYSTEMS+THINKER" alt="Typing SVG" />
 
 </div>
-```
+
+<pre align="center">
 ██╗    ██╗███████╗██╗   ██╗██╗████████╗███████╗ ██████╗ 
 ██║    ██║██╔════╝██║   ██║██║╚══██╔══╝██╔════╝██╔════╝ 
 ██║ █╗ ██║███████╗██║   ██║██║   ██║   ███████╗███████╗
 ██║███╗██║╚════██║██║   ██║██║   ██║   ╚════██║██╔═══██╗
 ╚███╔███╔╝███████║╚██████╔╝██║   ██║   ███████║╚██████╔╝
  ╚══╝╚══╝ ╚══════╝ ╚═════╝ ╚═╝   ╚═╝   ╚══════╝ ╚═════╝ 
-```
+</pre>
 
 <div align="center">
 
@@ -20,7 +21,7 @@
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -30,7 +31,7 @@
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -42,7 +43,7 @@
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -52,24 +53,25 @@
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.youtube.com/@wsuits6" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
 <a href="https://x.com/wsuits6" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
 <a href="https://www.linkedin.com/in/osman-alhassan-552807301/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
-```
+
+<pre>
 ▄▀█ █▄▄ █▀█ █░█ ▀█▀   ▄▀█ █▀▀ ▀█▀ █ █▀█ █▄░█
 █▀█ █▄█ █▄█ █▄█ ░█░   █▀█ █▄▄ ░█░ █ █▄█ █░▀█
-```
+</pre>
 
 **I don't follow paths — I burn them, then write my own in code.**
 
